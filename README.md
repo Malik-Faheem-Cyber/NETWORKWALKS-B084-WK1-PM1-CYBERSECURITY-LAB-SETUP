@@ -73,11 +73,11 @@ I used the Kali Linux ISO from https://kali.org/get-kali
 - Network: **Adapter 1 -> Attached to: NAT Network -> Name: NatNetwork**
 - Start the VM and verify that it boots
 
-![New VM](screenshots/04-new-vm.png)
-![Memory](screenshots/05-vm-memory.png)
-![CPU](screenshots/06-vm-cpu.png)
-![Network adapter](screenshots/07-vm-network-adapter.png)
-![Kali desktop](screenshots/08-kali-desktop.png)
+![New VM](04-new-vm.png)
+![Memory](05-vm-memory.png)
+![CPU](06-vm-cpu.png)
+![Network adapter](07-vm-network-adapter.png)
+![Kali desktop](08-kali-desktop.png)
 
 ### Step 5: Configure the IP address in Kali
 1. Open the network settings of the wired connection in Kali
@@ -89,28 +89,28 @@ I used the Kali Linux ISO from https://kali.org/get-kali
    - DNS: `8.8.8.8` (use `10.0.0.1` if there are Internet problems)
 4. Click **Apply**, then test connectivity with `ping` and Firefox.
 
-![Kali IPv4 settings](screenshots/09-kali-ip-config.png)
-![Ping test](screenshots/10-ping-test.png)
-![Internet in Firefox](screenshots/11-internet-firefox.png)
+![Kali IPv4 settings](09-kali-ip-config.png)
+![Ping test](10-ping-test.png)
+![Internet in Firefox](11-internet-firefox.png)
 
 ### Step 6: Clipboard and Drag-and-Drop
 VM **Settings -> General -> Features**:
 - Shared Clipboard: **Bidirectional**
 - Drag-and-Drop: **Bidirectional**
 
-![Clipboard and drag-drop](screenshots/12-clipboard-dragdrop.png)
+![Clipboard and drag-drop](12-clipboard-dragdrop.png)
 
 ### Step 7: Shared Folder
 VM **Settings -> Shared Folders -> Add**:
 - Folder Path: host `Downloads` folder
 - Check **Auto-mount** and **Make Global**
 
-![Shared folder](screenshots/13-shared-folder.png)
+![Shared folder](13-shared-folder.png)
 
 ### Step 8: Snapshot
 Took a snapshot of the clean, working VM so I can roll back at any time.
 
-![Snapshot](screenshots/14-snapshot.png)
+![Snapshot](14-snapshot.png)
 
 ---
 

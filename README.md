@@ -191,9 +191,7 @@ Full step-by-step document with screenshots: `Lab Setup Week 1 Project.docx`
 - Take snapshots of each VM
 
 ---
-
-## Author
-
+##Author 
 Malik Muhammad Faheem Badar
 Cybersecurity Intern, Week 1 Project
 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)

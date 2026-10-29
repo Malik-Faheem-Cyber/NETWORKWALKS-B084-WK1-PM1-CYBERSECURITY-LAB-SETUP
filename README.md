@@ -122,7 +122,6 @@ Took a snapshot of the clean, working VM so I can roll back at any time.
 | Test Internet | `ping -c 3 8.8.8.8` | 0% packet loss |
 | Test DNS / browser | Open `google.com` in Firefox | Page loads |
 
-![ip a output](screenshots/15-ip-a.png)
 
 ---
 

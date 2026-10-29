@@ -52,7 +52,7 @@ Skipped, because WinRAR was already installed (7-Zip is only needed to extract a
 ### Step 2: Install VirtualBox
 Installed VirtualBox **7.2.16** from https://virtualbox.org/wiki/Downloads
 
-![VirtualBox version](screenshots/01-virtualbox-version.png)
+![VirtualBox version](01-virtualbox-version.png)
 
 ### Step 3: Create the NAT Network
 1. Open VirtualBox, then **File -> Tools -> Network**
@@ -61,8 +61,8 @@ Installed VirtualBox **7.2.16** from https://virtualbox.org/wiki/Downloads
 4. **IPv4 Prefix: `10.0.0.0/24`** (see the troubleshooting section below)
 5. Keep **Enable DHCP** checked and click **Apply**
 
-![Tools -> Network menu](screenshots/02-tools-network-menu.png)
-![NAT Network settings](screenshots/03-nat-network.png)
+![Tools -> Network menu](02-tools-network-menu.png)
+![NAT Network settings](03-nat-network.png)
 
 ### Step 4: Create the Kali Linux VM
 I used the Kali Linux ISO from https://kali.org/get-kali

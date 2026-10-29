@@ -194,4 +194,4 @@ Full step-by-step document with screenshots: `Lab Setup Week 1 Project.docx`
 ##Author 
 Malik Muhammad Faheem Badar
 Cybersecurity Intern, Week 1 Project
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/malik-muhammad-faheem-badar-2b1a43414) 
